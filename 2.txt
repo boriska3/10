@@ -1,2 +1,1 @@
-2 in main
-new string
+2 in new main
